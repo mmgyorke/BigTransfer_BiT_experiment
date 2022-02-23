@@ -1,3 +1,3 @@
-# Image Classification using (BiT) BigTransfer
+Image Classification using BigTransfer (BiT)
 
-Experimenting with keras implementation. 
+I am starting off with the keras implementation of (BiT) - Big Transfer on the tf_flowers dataset.  
