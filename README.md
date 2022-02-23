@@ -6,20 +6,20 @@ As I experiment further, I will be referring to the original paper, "Big Transfe
 
 ## Additional references:
 
-Blog - BigTransfer (BiT): State-of-the-art transfer learning for computer vision - TensorFlow Blog, posted by Jessica Yung and Joan Puigcerver
+- *Blog* - BigTransfer (BiT): State-of-the-art transfer learning for computer vision - TensorFlow Blog, posted by Jessica Yung and Joan Puigcerver
 
-Repo - big_transfer by Google Research
+- *Repo* - big_transfer by Google Research
 
-Paper - "Knowledge distillation: A good teacher is patient and consistent" by L. Beyer, X. Zhai, A. Royer, L. Markeeva, R. Anil, and A. Kolesnikov         
+- *Paper* - "Knowledge distillation: A good teacher is patient and consistent" by L. Beyer, X. Zhai, A. Royer, L. Markeeva, R. Anil, and A. Kolesnikov         
 
 
 ## Datasets:
 
-Flowers102
-Pets37
-Food101
-CIFAR-10
-ImageNet
+- Flowers102
+- Pets37
+- Food101
+- CIFAR-10
+- ImageNet
 
 ## Models:
 
@@ -28,10 +28,10 @@ ImageNet
 
 ## Methods:
 
-Knowledge Distillation
-Big Transfer
-Transfer Learning
-MixUp Augmentation
+- Knowledge Distillation
+- Big Transfer
+- Transfer Learning
+- MixUp Augmentation
 
 
 
